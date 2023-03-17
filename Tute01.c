@@ -5,8 +5,10 @@
 #include <stdio.h>
 
 int main() {
-  
+  int num;
   printf("test1");
+  printf("enter input :");
+  scanf("%d",&num);
   return 0;
 }
 
